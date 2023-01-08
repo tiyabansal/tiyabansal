@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tiya Bansal
+- 👋 Hi, I’m Tiya Bansal!
 - 👀 I’m interested in Data Structures, Algorithms, Web Development and Technical Writing
 - 🌱 I’m currently learning about Python for AI and machine learning
 - 💞️ I love to help people regarding technical interviews, internships and host twitter spaces
